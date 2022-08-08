@@ -9,3 +9,15 @@ body    {
     background-color:#000;
     font-family: 'Cabin', sans-serif;
 }
+
+.footer-wrap    {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-black {
+    background-color: #000;
+    opacity: 0.9;
+    color: white;
+  }
